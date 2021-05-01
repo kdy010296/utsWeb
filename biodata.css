@@ -1,0 +1,44 @@
+body{
+    background: black;
+    text-align: center;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid yellow;
+}
+h1, h2{
+    color: white;
+
+}
+hr{
+    width: 100%;
+}
+p{
+    color: white;
+}
+table,thead, tr, th{
+    letter-spacing: 3px;
+    padding: 5px;
+    max-width: 600px;
+    margin: 3em auto;
+    border: 1px;
+    width: 100;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    color: white;
+    border: 1px solid yellow;
+}
+.link-button{
+    position: absolute;
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    padding: 4px 8px 4px 8px;
+    border: 1px solid yellow;
+    border-radius: 4px;
+    top: 900px;
+    left: 925px;
+}
